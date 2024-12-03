@@ -17,14 +17,14 @@ export default function About() {
         and tackling cross-browser compatibility issues to ensure smooth,
         consistent experiences for users across all devices. I also have a
         strong foundation in debugging tools, allowing me to troubleshoot and
-        optimize performance effectively.<br></br> While my background in
-        Computer Science Engineering has provided me with a solid technical
-        foundation, my growing interest in JavaScript led me to further
-        specialize in this area. To deepen my knowledge and stay on top of
-        emerging trends, I recently joined a bootcamp focused on JavaScript
-        frameworks.<br></br> I believe in the power of collaboration and
-        communication, and I thrive in team-oriented environments where I can
-        contribute to delivering high-quality solutions that meet and exceed
+        optimize performance effectively.<br></br>
+        While my background in Computer Science Engineering has provided me with
+        a solid technical foundation, my growing interest in JavaScript led me
+        to further specialize in this area. To deepen my knowledge and stay on
+        top of emerging trends, I recently joined a bootcamp focused on
+        JavaScript frameworks.<br></br>I believe in the power of collaboration
+        and communication, and I thrive in team-oriented environments where I
+        can contribute to delivering high-quality solutions that meet and exceed
         client expectations. My passion for continuous learning fuels my drive
         to stay up-to-date with the latest technologies and best practices,
         ensuring I deliver clean, scalable code and exceptional user

@@ -11,7 +11,8 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 
 const app = express();
-const PORT = 3000; // You can choose another port if needed
+// eslint-disable-next-line no-undef
+const PORT = process.env.PORT; // You can choose another port if needed
 
 // Middleware
 app.use(cors());

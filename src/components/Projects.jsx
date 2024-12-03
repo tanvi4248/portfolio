@@ -1,5 +1,9 @@
 import { useState } from "react";
-
+import mid from "../assets/mid.jpg";
+import design1 from "../assets/design1.png";
+import design2 from "../assets/design2.png";
+import design3 from "../assets/design3.jpeg";
+import design4 from "../assets/design4.jpeg";
 export default function Projects() {
   const [expandedProjects, setExpandedProjects] = useState([
     false,
@@ -38,7 +42,7 @@ export default function Projects() {
         <div className="project rounded-lg p-5 bg-zinc-800 max-[480px]:p-2">
           <div className="img pb-5 max-[480px]:pb-3">
             <a href="">
-              <img src="../src/assets/mid.jpg" className="rounded-lg" />
+              <img src={mid} className="rounded-lg" />
             </a>
           </div>
           <div className="desc text-left">
@@ -84,7 +88,7 @@ export default function Projects() {
         <div className="project rounded-lg p-5 bg-zinc-800 max-[480px]:p-2">
           <div className="img pb-5 max-[480px]:pb-3">
             <a href="">
-              <img src="../src/assets/design1.png" className="rounded-lg" />
+              <img src={design1} className="rounded-lg" />
             </a>
           </div>
           <div className="desc text-left">
@@ -126,7 +130,7 @@ export default function Projects() {
         <div className="project rounded-lg p-5 bg-zinc-800 max-[480px]:p-2">
           <div className="img pb-5 max-[480px]:pb-3">
             <a href="">
-              <img src="../src/assets/design2.png" className="rounded-lg" />
+              <img src={design2} className="rounded-lg" />
             </a>
           </div>
           <div className="desc text-left">
@@ -173,7 +177,7 @@ export default function Projects() {
         <div className="project rounded-lg p-5 bg-zinc-800 max-[480px]:p-2">
           <div className="img pb-5 max-[480px]:pb-3">
             <a href="">
-              <img src="../src/assets/design3.jpeg" className="rounded-lg" />
+              <img src={design3} className="rounded-lg" />
             </a>
           </div>
           <div className="desc text-left">
@@ -214,7 +218,7 @@ export default function Projects() {
         <div className="project rounded-lg p-5 bg-zinc-800 max-[480px]:p-2">
           <div className="img pb-5 max-[480px]:pb-3">
             <a href="">
-              <img src="../src/assets/design4.jpeg" className="rounded-lg" />
+              <img src={design4} className="rounded-lg" />
             </a>
           </div>
           <div className="desc text-left">

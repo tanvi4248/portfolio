@@ -10,13 +10,13 @@ function Footer() {
           <h4 className="text-lg font-semibold mb-2">Contact Me</h4>
           <p>
             Email:{" "}
-            <a href="mailto:youremail@example.com" className="text-orange-400">
+            <a href="mailto:tanvih0501@gmail.com" className="text-orange-400">
               tanvih0501@gmail.com
             </a>
           </p>
           <p>
             Phone:{" "}
-            <a href="tel:+1234567890" className="text-orange-400">
+            <a href="tel:+18473080102" className="text-orange-400">
               +1 847-308-0102
             </a>
           </p>

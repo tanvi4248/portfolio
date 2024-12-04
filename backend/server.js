@@ -34,7 +34,7 @@ app.post("/api/send-email", async (req, res) => {
   const { name, email, message } = req.body;
 
   const mailOptions = {
-    from: `${name} <${email}>`, // Show sender's name and email
+    from: email, // Show sender's name and email
     to: "tanvi1693@gmail.com", // Replace with your email
     replyTo: email, // Reply to the form submitter's email
     subject: `New message from ${name}`,

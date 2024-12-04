@@ -12,7 +12,7 @@ const bodyParser = require("body-parser");
 
 const app = express();
 // eslint-disable-next-line no-undef
-const PORT = process.env.PORT; // You can choose another port if needed
+const PORT = 3000; // You can choose another port if needed
 
 // Middleware
 app.use(cors());

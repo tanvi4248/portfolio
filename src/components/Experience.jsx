@@ -21,6 +21,20 @@ function Experience() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(234, 88, 12)", color: "#fff" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(234, 88, 12)" }}
+          date="03/2025 - Present"
+          iconStyle={{ background: "rgb(234, 88, 12)", color: "#fff" }}
+          icon={<FontAwesomeIcon icon={faBriefcase} />}
+        >
+          <span className="vertical-timeline-element-maintitle">Treevah</span>
+          <h3 className="vertical-timeline-element-title">
+            Full Stack Developer
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">Remote</h4>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "rgb(234, 88, 12)", color: "#fff" }}
+          contentArrowStyle={{ borderRight: "7px solid  rgb(234, 88, 12)" }}
           date="10/2020 - 04/2022"
           iconStyle={{ background: "rgb(234, 88, 12)", color: "#fff" }}
           icon={<FontAwesomeIcon icon={faBriefcase} />}

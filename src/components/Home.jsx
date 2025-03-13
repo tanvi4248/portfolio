@@ -34,7 +34,7 @@ export default function Home() {
             Hello , I am Tanvi Patel
           </h1>
           <h2 className="text-xl lg:text-lg md:text-base font-bold mb-6 lg:mb-4 md:mb-2 max-[480px]:mb-2">
-            Full-stack Developer
+            Front End Developer | Full Stack Developer
           </h2>
           <p className="max-[768px]:mb-4">
             I’m a Chicago-based full-stack developer with a strong focus on

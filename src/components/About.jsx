@@ -9,9 +9,9 @@ export default function About() {
       </h3>
       <p className="text-zinc-300 leading-relaxed">
         A passionate web developer with a degree in Computer Science Engineering
-        and 7 years of experience designing, developing, and managing complex
-        websites and web applications. My expertise spans front-end and back-end
-        technologies, including HTML, CSS, PHP, and modern JavaScript
+        and nearly 10 years of experience designing, developing, and managing
+        complex websites and web applications. My expertise spans front-end and
+        back-end technologies, including HTML, CSS, PHP, and modern JavaScript
         frameworks. <br></br>
         Over the years, I’ve become highly skilled in working with CMS platforms
         and tackling cross-browser compatibility issues to ensure smooth,
@@ -37,18 +37,18 @@ export default function About() {
       </h3>
       <p className="text-zinc-300 leading-relaxed">
         <b>Web Development Technology:</b> HTML, HTML5, CSS, CSS3, JavaScript,
-        PHP, JSON, REST, Bootstrap <br></br>
+        TypeScript, PHP, JSON, REST, Java <br></br>
         <b>Content Management System (CMS):</b> WordPress, PrestaShop, OpenCart,
         Shopify <br></br>
-        <b>Frameworks/Libraries:</b> jQuery, Bootstrap, ReactJS, Node.js,
-        Express.js, React Native <br></br>
-        <b>Database:</b> MySQL, PostgreSQL <br></br>
+        <b>Frameworks/Libraries:</b> : jQuery, Spring Boot, Bootstrap, ReactJS,
+        Angular, Node.js, Express.js, React Native, Tailwind CSS <br></br>
+        <b>Database:</b> MySQL, MS SQL Server, PostgreSQL <br></br>
         <b>CSS Preprocessors:</b> SASS, LESS <br></br>
-        <b>Debugging Tools:</b> Firebug, Chrome <br></br>
+        <b>Debugging Tools:</b> Firebug, Chrome Dev Tools <br></br>
         <b>Dev Tools Developer Tools:</b> Visual Studio Code, Dreamweaver,
         Notepad++
         <br></br>
-        <b>Operating System:</b> Windows, macOS <br></br>
+        <b>Operating System:</b> Windows, macOS, Linux OS <br></br>
         <b> Version Control:</b> GIT, GitHub<br></br>
         <b>State Management:</b>Redux, ReactJS Context API <br></br>
         <b>SDLC Methodologies: </b>Agile, Scrum, Kanban, Waterfall, CI/CD{" "}

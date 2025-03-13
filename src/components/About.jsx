@@ -8,8 +8,8 @@ export default function About() {
         About
       </h3>
       <p className="text-zinc-300 leading-relaxed">
-        A passionate web developer with a degree in Computer Science Engineering
-        and nearly 10 years of experience designing, developing, and managing
+        A passionate developer with a degree in Computer Science Engineering and
+        nearly 10 years of experience designing, developing, and managing
         complex websites and web applications. My expertise spans front-end and
         back-end technologies, including HTML, CSS, PHP, and modern JavaScript
         frameworks. <br></br>
